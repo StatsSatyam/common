@@ -1,2 +1,5 @@
 # common
-NLPc6w1
+NLP
+ML
+Stats
+AI
